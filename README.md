@@ -17,7 +17,3 @@ Practicar comandos Git: add, commit, push, pull.
 
 ## Autores
 - Nayareth Becerra
-
-## Commits
-- Creación del repositorio
-- Creación del README
